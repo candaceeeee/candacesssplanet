@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="candacessss.com" resolutions="1x,2x" timestamp="1557152497435">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="43712816" ref="index"/>
+    <file name="home.css" crc="302584088" ref="home"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:index"/>
+    <file name="museutils.js" crc="4216313831" ref="home:index"/>
+    <file name="whatinput.js" crc="86476730" ref="home:index"/>
+    <file name="museconfig.js" crc="4177022356" ref="home:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="home:index"/>
+    <file name="require.js" crc="3951022091" ref="home:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u226-10.png" crc="484279036" ref="index"/>
+    <file name="u226-10_2x.png" crc="371739422" ref="index"/>
+    <file name="4_工作區域 1.png" crc="3986001369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_工作區域 1_2x.png" crc="241276208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u253-10.png" crc="4012229315" ref="index"/>
+    <file name="u253-10_2x.png" crc="406254281" ref="index"/>
+    <file name="2_工作區域 1.png" crc="4268806896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_工作區域 1_2x.png" crc="3820516056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u266-5.png" crc="3867860230" ref="index"/>
+    <file name="u266-5_2x.png" crc="4015490376" ref="index"/>
+    <file name="1_工作區域 1.png" crc="202732264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_工作區域 1_2x.png" crc="4187683363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u282-5.png" crc="4236871998" ref="index"/>
+    <file name="u282-5_2x.png" crc="292909400" ref="index"/>
+    <file name="3_工作區域 1.png" crc="375935543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_工作區域 1_2x.png" crc="3923526232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="star alien.png" crc="391072055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="star alien_2x.png" crc="4288318412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-icon-black.png" crc="442906517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-icon-black_2x.png" crc="3956602153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u295-4.png" crc="3973227661" ref="index"/>
+    <file name="u295-4_2x.png" crc="4122040972" ref="index"/>
+  </folder>
+  <file name="home.html" crc="4247351324" seo="true" mt="1557118960195" redirect="false"/>
+  <file name="index.html" crc="531418993" seo="true" mt="1557120951229" redirect="true"/>
+</manifest>
