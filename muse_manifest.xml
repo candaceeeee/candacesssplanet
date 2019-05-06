@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="candacessss.com" resolutions="1x,2x" timestamp="1557152497435">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="candacessss.com" resolutions="1x,2x" timestamp="1557157662491">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="43712816" ref="index"/>
@@ -61,5 +61,5 @@
     <file name="u295-4_2x.png" crc="4122040972" ref="index"/>
   </folder>
   <file name="home.html" crc="4247351324" seo="true" mt="1557118960195" redirect="false"/>
-  <file name="index.html" crc="531418993" seo="true" mt="1557120951229" redirect="true"/>
+  <file name="index.html" crc="3837007567" seo="true" mt="1557157634351" redirect="true"/>
 </manifest>
